@@ -1,1 +1,7 @@
 image alice happy = im.FactorScale("alice happy.png", 0.15)
+image alice default = im.FactorScale("alice default.png", 0.15)
+image alice doubt = im.FactorScale("alice doubt.png", 0.15)
+image alice embarassed = im.FactorScale("alice embarassed.png", 0.15)
+image alice happy_blush = im.FactorScale("alice happy_blush.png", 0.15)
+image alice teasing = im.FactorScale("alice teasing.png", 0.15)
+image alice worried = im.FactorScale("alice worried.png", 0.15)
